@@ -1,0 +1,83 @@
+body {
+  padding:0px;
+  margin:0px;
+}
+.left-container {
+  width:110px;
+  height:200vh;
+  background-color:#4682B4;
+}
+.profile {
+  position:fixed;
+  top:10px:
+  text-align:center;
+  margin:10px 5px;
+}
+.photo {
+  width:90px;
+  border:2px solid black;
+  border-radius:50%;
+}
+.button {
+  width:100px;
+  height:30px;
+  border:1px solid black;
+  border-radius:12px;
+  background-color: white;
+  margin-bottom:10px;
+  font-weight:bold;
+  text-decoration:none;
+}
+.button:hover{
+  background-color:black;
+  color:white;
+  transition-duration: 0,5s;
+}
+h3 {
+  color:white;
+}
+.right-container {
+  position:absolute;
+  left:110px;
+}
+.Top-Bar {
+  padding-top:10px;
+  padding-left:12px;
+  font-size:10px;
+  text-decoration:none;
+}
+.list-menu {
+  float:right;
+  margin-left:10px;
+  word-spacing:5px;
+}
+a {
+  text-decoration:none;
+  color:black;
+}
+#name {
+  margin-top:100px;
+  margin-left:10px;
+  margin-right:10px;
+}
+#about {
+  margin-top:100px;
+  margin-left:10px;
+  margin-right:10px;
+}
+#experience {
+  margin-top:100px;
+  margin-left:10px;
+  margin-right:10px;
+}
+#achivements {
+  margin-top:100px;
+  margin-left:10px;
+  margin-right:10px;
+}
+#contact {
+  
+}
+.title {
+  font-style:italic;
+}
